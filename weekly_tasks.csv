@@ -1,0 +1,11 @@
+task_id,task_name,status,assigned_to,due_date
+101,Create weekly report,Completed,John,2026-10-05
+102,Fix API issue,In Progress,David,2026-10-06
+103,Update dashboard,Pending,Manjula,2026-10-07
+104,Database cleanup,Completed,Sarah,2026-10-08
+105,Validate ETL pipeline,Pending,Alex,2026-10-09
+106,Review source data,Completed,John,2026-10-10
+107,Test ClickHouse load,In Progress,David,2026-10-11
+108,Validate staging table,Pending,Manjula,2026-10-12
+109,Refresh dashboard,Pending,Sarah,2026-10-13
+110,Verify weekly sync,Pending,Alex,2026-10-14
